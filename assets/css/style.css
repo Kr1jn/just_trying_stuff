@@ -1,0 +1,10 @@
+body {
+    margin: 0%;
+}
+
+#gameborder {
+    width: 960px;
+    height: 540px;
+    border-radius: 2px;
+    border-color: black;
+}
